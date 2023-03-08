@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fawwazio" target="blank"><img src="https://img.shields.io/twitter/follow/fawwazio?logo=twitter&style=for-the-badge" alt="fawwazio" /></a> </p>
 
-- 🌱 I’m currently working on **MERN React Admin Dashboard**
+- 🌱 I’m currently working on **My Own Portfolio**
 
 - 💬 Ask me about **MERN Stack**
 
