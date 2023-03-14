@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawwaz-github&label=Profile%20views&color=0e75b6&style=flat" alt="fawwaz-github" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fawwazio" target="blank"><img src="https://img.shields.io/twitter/follow/fawwazio?logo=twitter&style=for-the-badge" alt="fawwazio" /></a> </p>
-
 - 🌱 I’m currently working on **My Own Portfolio**
 
 - 💬 Ask me about **MERN Stack**
