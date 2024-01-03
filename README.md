@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawwaz-github&label=Profile%20views&color=0e75b6&style=flat" alt="fawwaz-github" /> </p>
 
-- 🌱 I’m currently working on **Dynamic Form Builder**
+- 🌱 I’m currently learning about **NextJS**
 
 - 💬 Ask me about **MERN Stack**
 
